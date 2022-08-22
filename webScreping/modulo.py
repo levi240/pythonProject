@@ -72,5 +72,5 @@ def tempo(valor):
             print("Saindo do sistema")
             break
 while True:
-    tempo(2)
+    tempo(1)
 
